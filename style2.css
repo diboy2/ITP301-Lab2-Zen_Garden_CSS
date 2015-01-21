@@ -1,0 +1,59 @@
+body{
+	background-color: #342235;
+
+}
+
+
+
+h1,h2{
+	text-align: center;
+	color: white;
+}
+
+h3{
+	color: white;
+	font-size: 14px;
+}
+
+#container{
+	margin: auto;
+	width: 600px;
+}
+#intro div, #supportingText div{
+	border-bottom: 1px solid black;
+}
+
+#intro p{
+	font-family: Verdana, sans-serif;
+}
+
+p{
+	background-color: white;
+}
+
+#supportingText p{
+	font: 75% georgia, sans-serif;
+	
+}
+#supportingText{
+	float: left;
+	width:400px;
+}
+#linkList{
+	float: left;
+	width: 200px;
+	background-color: red;
+}
+
+#linkList ul{
+	list-style:none;
+    padding-left:0;
+}
+#linklist {
+	text-align: center;
+}
+
+#explanation, #participation, #benefits, #requirements{
+	float: left;
+	width: 100px;
+}

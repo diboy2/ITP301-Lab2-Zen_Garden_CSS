@@ -1,0 +1,46 @@
+body{
+	background-color: #635;
+
+}
+
+h1,h2,h3{
+	text-align: center;
+}
+
+#container{
+	margin: auto;
+	width: 600px;
+	background-color: white;
+}
+#intro div, #supportingText div{
+	border-bottom: 1px solid black;
+}
+
+#intro p{
+	font-family: Verdana, sans-serif;
+}
+
+#supportingText p{
+	font: 75% georgia, sans-serif;
+	
+}
+#supportingText{
+	background-color: white;
+}
+#linkList{
+	float: left;
+	width: 200px;
+	background-color: red;
+}
+
+#linkList ul{
+	list-style:none;
+    padding-left:0;
+}
+#linklist {
+	text-align: center;
+}
+#supportingText{
+	float: left;
+	width:400px;
+}
